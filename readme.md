@@ -313,7 +313,6 @@ Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
 ```
 
 ### Demo
-### Test
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
